@@ -11,9 +11,9 @@ Ofir and Eden Project of link prediction
 7. Deliverables
 
 # People
-Matan - PhD student: background, microbial data, network analysis
-Itamar - BSc student: data, parasite data
-Barry - Code developer: ML
+- Matan - PhD student: background, microbial data, network analysis
+- Itamar - BSc student: data, parasite data
+- Barry - Code developer: ML models
 
 # Technical / social side
 
