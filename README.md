@@ -16,9 +16,7 @@ Ofir and Eden Project of link prediction
 - Barry - Code developer: ML models
 
 # Technical / social side
-
-Python + R
-GitHub repo
+- Take a look at our lab toolbox repository: [https://github.com/Ecological-Complexity-Lab/lab_toolbox](https://github.com/Ecological-Complexity-Lab/lab_toolbox)
 
 ## Data science
 - **R for Data Science (2e)**  https://r4ds.hadley.nz/preface-2e
